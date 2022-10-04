@@ -62,3 +62,23 @@ Part 2:
 **Remote** - is what I call it when a single anchor link has multiple clickable areas in different locations.
 
 **Repository** - is a place that hosts an application's code source, together with various metadata.
+
+Refrences:
+
+https://www.perforce.com/blog/vcs/branching-definition-what-branch#:~:text=A%20branch%20is%20a%20copy,baseline%2C%20master%2C%20or%20mainline.
+
+https://www.cloudways.com/blog/how-to-clone-a-website/#:~:text=Website%20cloning%20is%20the%20process,changes%20on%20your%20live%20website.
+
+https://en.wikipedia.org/wiki/Commit_(version_control)
+
+https://jonathan-wong.medium.com/javascript-what-is-fetch-2ee4df5beeaa#:~:text=fetch()%20in%20its%20simplest,editing%20data%2C%20and%20deleting%20data.
+
+https://kinsta.com/blog/git-for-web-development/#:~:text=Git%20is%20the%20software%20that,source%20project%20in%20the%20world.
+
+https://blog.hubspot.com/website/what-is-github-used-for#:~:text=GitHub%20is%20an%20online%20software,developers%20on%20open%2Dsource%20projects.
+
+https://www.techopedia.com/definition/1217/merge
+
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts
+
+https://www.kimbodesign.ca/website-repository-what-is-it-and-why-is-it-important/#:~:text=Broadly%20speaking%2C%20a%20repository%20describes,product%20after%20its%20initial%20release.
