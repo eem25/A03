@@ -1,8 +1,8 @@
 # A03
 Homework for 4th October, 2022
 
-PART 1: Directions on Using Webstorm.
-Add a step by step set of directions. Include URLs of any downloaded software. 
+PART 1: 
+
 Step 1: Download the latest Git from https://git-scm.com/downloads.
 Step 2:Find the file on your computer and install it.
 Step 3: Download Webstorm, then open it (https://www.jetbrains.com/webstorm/download/#section=mac)
@@ -21,8 +21,7 @@ Step 15: Click Commit, you might have to enter your username and password as thi
 Step 16: Add the project to GITHUB , Click Version Control System -> Import into Version Control -> Share Project on Github
 Step 17: Now your project is on web, if you make more changes, just repeat steps 14-16
 
-Part 2: Glossary to include these terms in a bulleted list.
-Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
+Part 2: 
 
 **Branch** -  a copy of a codeline, managed in a version control system (VCS).
 **Clone** - allows programmers to copy the values of an object or source code of an application program to another without the need for writing the explicit code.
